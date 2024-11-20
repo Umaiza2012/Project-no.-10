@@ -1,0 +1,13 @@
+/*Selector (css syntax)*/
+#i1
+{
+width:200px;
+border: 12px ridge green;
+padding:5px;
+}
+#i2
+{
+width:200px;
+border:10px dashed blue;
+padding:5px;
+}
